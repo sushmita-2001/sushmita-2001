@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **python , cpp and front end development**
 
+- 🤝 I’m looking for help with **cpp**
+
 - 📫 How to reach me **sushmita09876543@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
